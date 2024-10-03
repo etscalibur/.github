@@ -1,0 +1,3 @@
+# ETScalibur
+
+Au cœur de notre club de combat de robots, nous visons à rassembler des passionnés de technologie et de compétition autour d'une expérience unique et palpitante. Notre mission est de créer un environnement dynamique où les membres peuvent concevoir, construire et combattre leurs propres robots dans un esprit de camaraderie et de fair-play. Nous encourageons l'apprentissage pratique en ingénierie, en programmation et en stratégie, tout en favorisant l'innovation et la créativité. Rejoignez-nous pour relever des défis, participer à des événements spectaculaires et vivre l'excitation du combat robotique, tout en développant des compétences qui vous prépareront pour l'avenir !
